@@ -6,7 +6,7 @@ You can easily write blog posts, let users comment the posts
 
 ## Django-Blog:
 This project is hosted @herokuapp.com
-Visit: [https://xerocker.herokuapp.com](url) to view the live demo of this django blog project
+Visit: [xerocker](https://xerocker.herokuapp.com) to view the live demo of this django blog project
 
 ## Description: 
 ```
